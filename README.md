@@ -12,3 +12,4 @@ The AirBnB data was taken from Inside AirBnB: http://insideairbnb.com/get-the-da
 
 Analysis and data visualization was conducted in Tableau - steps and tips can be found here, along with a short description of data prep conducted in Excel for the StreetEasy data: https://docs.google.com/document/d/1WJzDsyEUn4Uuf5OEyhrCkwpanlplcXq0CyElfOu6K6o/edit?usp=sharing 
 
+Data visualizations, further context, and analysis can be found here: https://medium.com/@erica.wcrew/nyc-neighborhoods-airbnb-listings-rent-price-increases-3f6a29febb0
